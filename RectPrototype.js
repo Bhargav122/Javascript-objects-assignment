@@ -1,9 +1,7 @@
 var Rectangle = function (width, height) {
   this.width = width;
   this.height = height;
-  this.area = function () {
-    console.log("Area of the Rectangle is : " + this.width * this.height);
-  };
+
 };
 //using prototype
 Rectangle.prototype.getArea = function () {
