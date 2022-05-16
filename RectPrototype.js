@@ -1,3 +1,4 @@
+//Adding getArea method using prototype property
 var Rectangle = function (width, height) {
   this.width = width;
   this.height = height;
