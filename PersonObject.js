@@ -1,6 +1,6 @@
 //object with firstName and lastName properties
-var obj = {
+var Person = {
     firstName : "Bhargav",
     lastName : "Korrai"
 };
-console.log(obj);
+console.log(Person);
